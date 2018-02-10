@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pali.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "azma",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.",
+  "main": "pali.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azmash/project-euler-problem4.git"
+  },
+  "keywords": [
+    "palindrom"
+  ],
+  "author": "Azma Sholiha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azmash/project-euler-problem4/issues"
+  },
+  "homepage": "https://github.com/azmash/project-euler-problem4#readme",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
+}
